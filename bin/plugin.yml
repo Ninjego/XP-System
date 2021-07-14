@@ -1,0 +1,9 @@
+main: me.ninjego.XPSystem.XPSystem
+name: XPSystem
+version: 1.0
+author: Ninjego
+
+commands:
+  xpmenu:
+  getcombatxp:
+  setcombatxp:

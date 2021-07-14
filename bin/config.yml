@@ -1,0 +1,38 @@
+levels:
+  combat:
+    2:
+      xp: 100
+      commands:
+      - eco add 100 %player%
+    3:
+      xp: 250
+      commands:
+      - say &b%player% has leveled up  
+  mining:
+    2:
+      xp: 100
+      commands:
+      - eco add 100 %player%
+    3:
+      xp: 250
+      commands:
+      - say &b%player% has leveled up  
+      
+mobs:
+  ZOMBIE:
+    xp: 5
+  PIG:
+    xp: 1
+  SHEEP:
+    xp: 2
+    
+mine:
+  COAL_ORE:
+    xp: 1
+  IRON_ORE:
+    xp: 2
+  GOLD_ORE:
+    xp: 3
+  DIAMOND_ORE:
+    xp: 5
+  
